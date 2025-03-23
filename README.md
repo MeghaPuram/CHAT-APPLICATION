@@ -1,6 +1,6 @@
-## CHAT-APPLICATION
-📌 Project Overview
+# CHAT-APPLICATION
 
+### Description
 This is a real-time chat application built using Spring Boot for the backend and React for the frontend. The application leverages WebSockets (using STOMP protocol) for real-time communication, allowing users to send and receive messages instantly. The chat app supports multiple chat rooms and provides a seamless messaging experience with WebSockets.
 
 🚀 Features
