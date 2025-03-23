@@ -56,3 +56,5 @@ Postman - For API testing.
 Maven - Manages dependencies.
 
 VS Code / IntelliJ IDEA - Used for development.
+
+# Output
