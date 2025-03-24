@@ -71,3 +71,8 @@ Maven - Manages dependencies.
 VS Code / IntelliJ IDEA - Used for development.
 
 ### Output
+
+![Image](https://github.com/user-attachments/assets/003e2d18-a60d-41c6-97fc-9ff17838b051)
+
+
+![Image](https://github.com/user-attachments/assets/131f8183-1b71-424f-b604-d227101b9498)
