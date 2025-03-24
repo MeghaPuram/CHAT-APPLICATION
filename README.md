@@ -36,21 +36,16 @@ Graceful Disconnection: Users can disconnect properly.
 
 #### Technologies Used
 
-Backend (Spring Boot)
+* Backend (Spring Boot)
 
 Spring Boot 3.x - For backend API development.
-
 Spring WebSocket (STOMP) - Enables real-time communication.
-
 Spring Security - Handles user authentication.
-
 MongoDB - Stores chat messages and user details.
-
 Spring Data MongoDB - Simplifies MongoDB interactions.
-
 Lombok - Reduces boilerplate code.
 
-Frontend (React.js)
+* Frontend (React.js)
 
 React 18 - For building the UI.
 
