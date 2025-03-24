@@ -1,9 +1,22 @@
 # CHAT-APPLICATION
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : MEGHA PURAM
+
+INTERN ID : CT08UON
+
+DOMAIN : FULL STACK WEB DEVELOPMENT
+
+BATCH DURATION : FEBRUARY 15TH, 2025 TO MARCH 15TH, 2025
+
+MENTOR NAME : NEELA SANTOSH KUMAR
+
+
 ### Description
 This is a real-time chat application built using Spring Boot for the backend and React for the frontend. The application leverages WebSockets (using STOMP protocol) for real-time communication, allowing users to send and receive messages instantly. The chat app supports multiple chat rooms and provides a seamless messaging experience with WebSockets.
 
-🚀 Features
+#### Features
 
 Real-time Messaging: Messages are sent and received instantly using WebSockets.
 
@@ -21,7 +34,7 @@ Optimized WebSocket Handling: Ensures only one WebSocket connection per user.
 
 Graceful Disconnection: Users can disconnect properly.
 
-🛠️ Technologies Used
+#### Technologies Used
 
 Backend (Spring Boot)
 
@@ -49,7 +62,7 @@ React Router - Handles navigation.
 
 Axios - For API calls.
 
-Other Tools
+#### Other Tools
 
 Postman - For API testing.
 
@@ -57,4 +70,4 @@ Maven - Manages dependencies.
 
 VS Code / IntelliJ IDEA - Used for development.
 
-# Output
+### Output
