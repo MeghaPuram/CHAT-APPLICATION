@@ -38,32 +38,37 @@ Graceful Disconnection: Users can disconnect properly.
 
 * Backend (Spring Boot)
 
-Spring Boot 3.x - For backend API development.
-Spring WebSocket (STOMP) - Enables real-time communication.
-Spring Security - Handles user authentication.
-MongoDB - Stores chat messages and user details.
-Spring Data MongoDB - Simplifies MongoDB interactions.
-Lombok - Reduces boilerplate code.
+  Spring Boot 3.x - For backend API development.
+  
+  Spring WebSocket (STOMP) - Enables real-time communication.
+  
+  Spring Security - Handles user authentication.
+  
+  MongoDB - Stores chat messages and user details.
+  
+  Spring Data MongoDB - Simplifies MongoDB interactions.
+
+  Lombok - Reduces boilerplate code.
 
 * Frontend (React.js)
 
-React 18 - For building the UI.
-
-SockJS & StompJS - Enables WebSocket connections.
-
-Tailwind CSS - For modern and responsive UI design.
-
-React Router - Handles navigation.
-
-Axios - For API calls.
+  React 18 - For building the UI.
+  
+  SockJS & StompJS - Enables WebSocket connections.
+  
+  Tailwind CSS - For modern and responsive UI design.
+  
+  React Router - Handles navigation.
+  
+  Axios - For API calls.
 
 #### Other Tools
 
-Postman - For API testing.
-
-Maven - Manages dependencies.
-
-VS Code / IntelliJ IDEA - Used for development.
+  Postman - For API testing.
+  
+  Maven - Manages dependencies.
+  
+  VS Code / IntelliJ IDEA - Used for development.
 
 ### Output
 
